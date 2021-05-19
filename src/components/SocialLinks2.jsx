@@ -4,10 +4,10 @@ import {  Button } from "reactstrap";
 
 import { socialLinks } from "../portfolio";
 
-const SocialLinks = () => {
+const SocialLinks2 = () => {
     return ( 
         <div className="btn-wrapper text-lg">
-            {/* <Button
+            <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
                   href={socialLinks.twitter}
@@ -36,7 +36,7 @@ const SocialLinks = () => {
                   <span className="btn-inner--icon">
                     <i className="fa fa-instagram" />
                   </span>
-                </Button> */}
+                </Button>
                 <Button
                   className="btn-1 ml-1"
                   color="white"
@@ -65,4 +65,4 @@ const SocialLinks = () => {
      );
 }
  
-export default SocialLinks;
+export default SocialLinks2;

@@ -8,7 +8,7 @@ export const greetings = {
   name: "Gaurav Jaiswal",
   title: "Hi all, I'm Gaurav",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having an Passion of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps.",
+    "A passionate Full Stack Web Developer and Mobile App Developer having inquisitiveness of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps.",
   resumeLink:
     "https://drive.google.com/file/d/1L55e5kvQEHpbWmXFWjWWV2IIzhxH4eoQ/view?usp=sharing",
 };

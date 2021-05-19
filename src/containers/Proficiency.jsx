@@ -1,5 +1,5 @@
 import React from 'react';
-import build from "../assets/lottie/build";
+import charts from "../assets/lottie/charts";
 
 import { SkillBars } from "../portfolio";
 import {
@@ -35,7 +35,7 @@ const Proficiency = () => {
                         }
                     </Col>
                     <Col lg="6">
-                        <GreetingLottie animationData={build}/>
+                        <GreetingLottie animationData={charts}/>
                     </Col>
                 </Row>
            </Fade>
