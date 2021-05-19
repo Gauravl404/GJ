@@ -11,7 +11,7 @@
   "author": "Gaurav",
   "license": "MIT",
   "bugs": {
-    "url": "https://gauravl404.github.io/GJ"
+    "url": ""
   },
   "scripts": {
     "start": "react-scripts start",
