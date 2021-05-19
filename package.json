@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://gauravl404.github.io/GJ"
   },
-  "homepage": "https://gauravl404.github.io/GJ",
+  "homepage": "https://gauravl404.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
