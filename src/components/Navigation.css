@@ -1,9 +1,15 @@
 @font-face {
-    font-family: Augestina;
-    src: url(../assets/fonts/Agustina.otf);
+  font-family: Augestina;
+  src: url(../assets/fonts/Agustina.otf);
 }
 
-#nav-title{
-    font-family: Augestina;
-    text-transform: capitalize;
+@font-face {
+  font-family: BetterGrade-519DV;
+  src: url(../assets/fonts/BetterGrade-519DV.ttf);
+}
+
+#nav-title {
+  font-family: BetterGrade-519DV;
+  text-transform: capitalize;
+  font-size: 70px;
 }
