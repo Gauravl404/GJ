@@ -55,7 +55,7 @@ const Navigation = () => {
                   <Row>
                     <Col className="collapse-brand" xs="6">
                       <Link to="/">
-                        <h1 className="text-black" id="nav-title">{greetings.name}</h1>
+                        <h3 className="text-black" id="nav-title">{greetings.name}</h3>
                       </Link>
                     </Col>
                     <Col className="collapse-close" xs="6">

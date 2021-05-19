@@ -35,14 +35,11 @@ const Greetings = () => {
                 <span />
                 <span />
                 <span />
-                <span />
-               
               </div>
               <Container className="py-lg-md d-flex">
                 <div className="col px-0">
                   <Row>
                     <Col lg="6">
-                      <br></br>
                       <h1 className="display-3 text-white">
                         {greetings.title + " "}
                       </h1>
