@@ -24,7 +24,7 @@ export const socialLinks = {
   instagram: "https://www.instagram.com/gaurav_kj",
   twitter: "https://twitter.com/Gaurav55558",
   github: "https://github.com/Gauravl404",
-  linkedin: "www.linkedin.com/in/kumar-gj",
+  linkedin: "https://www.linkedin.com/in/kumar-gj",
 };
 
 export const skillsSection = {
