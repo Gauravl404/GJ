@@ -6,7 +6,7 @@ import airbnb from "./assets/img/icons/common/ideal.jpg";
 
 export const greetings = {
   name: "Gaurav Jaiswal",
-  title: "Hi all, I'm Gaurav",
+  title: "Hi, I'm Gaurav",
   description:
     "A passionate Full Stack Web Developer and Mobile App Developer having inquisitiveness of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps.",
   resumeLink:

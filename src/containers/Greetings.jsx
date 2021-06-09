@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import code from '../assets/lottie/coding.json';
+import pdf from '../assets/Resume_Gaurav_Jaiswal.pdf'
 
 
 import { Fade } from 'react-reveal';
@@ -49,7 +50,7 @@ const Greetings = () => {
                         <Button
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                           color="default"
-                          href={greetings.resumeLink}
+                          href={pdf}
                           target="_blank"
                         >
                           <span className="btn-inner--icon mr-1">
