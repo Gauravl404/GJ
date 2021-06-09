@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.16de3c4c.chunk.css",
-    "main.js": "/static/js/main.913b0c05.chunk.js",
-    "main.js.map": "/static/js/main.913b0c05.chunk.js.map",
+    "main.js": "/static/js/main.fe8ebefa.chunk.js",
+    "main.js.map": "/static/js/main.fe8ebefa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.27829a84.js",
     "runtime-main.js.map": "/static/js/runtime-main.27829a84.js.map",
     "static/js/2.93b8f4db.chunk.js": "/static/js/2.93b8f4db.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.16de3c4c.chunk.css.map": "/static/css/main.16de3c4c.chunk.css.map",
     "static/js/2.93b8f4db.chunk.js.LICENSE.txt": "/static/js/2.93b8f4db.chunk.js.LICENSE.txt",
     "static/media/Navigation.css": "/static/media/Agustina.320d237b.otf",
+    "static/media/Resume_Gaurav_Jaiswal.5bbfbd63.pdf": "/static/media/Resume_Gaurav_Jaiswal.5bbfbd63.pdf",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/nucleo.css": "/static/media/nucleo-icons.d6a66724.ttf",
     "static/media/splash1.cebf683c.jpg": "/static/media/splash1.cebf683c.jpg"
@@ -19,6 +20,6 @@
     "static/js/runtime-main.27829a84.js",
     "static/js/2.93b8f4db.chunk.js",
     "static/css/main.16de3c4c.chunk.css",
-    "static/js/main.913b0c05.chunk.js"
+    "static/js/main.fe8ebefa.chunk.js"
   ]
 }
